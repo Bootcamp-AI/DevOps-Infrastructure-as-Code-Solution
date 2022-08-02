@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "BAIProject"
+	},
+	{
+		"ParameterKey": "myUsername",
+		"ParameterValue": "admin"
+	},
+	{
+		"ParameterKey": "myPassword",
+		"ParameterValue": "abcd1234"
+	}
+]
